@@ -35,7 +35,7 @@ public class Practise05 {
         int[] age = {34,65,35};
         System.out.println(age[2]);
 
-        
+
 
     }
 }
