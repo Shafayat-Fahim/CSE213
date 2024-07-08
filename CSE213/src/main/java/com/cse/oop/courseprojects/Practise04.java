@@ -24,6 +24,6 @@ public class Practise04 {
         // substring
         System.out.println(fullName.substring(0, 8)); // in java, have to add +1 for desired last index
 
-        
+
     }
 }
